@@ -1,0 +1,10 @@
+{
+  "name": "cubemart-relay",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Fixed-URL relay for the Cube Mart MCP connector. Forwards claude.ai requests to the work-PC tunnel registered by Cube Mart ON.",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}

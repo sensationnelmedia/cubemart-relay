@@ -1,0 +1,6 @@
+[build]
+  publish = "public"
+  command = "echo relay"
+
+[functions]
+  node_bundler = "esbuild"
